@@ -1,12 +1,12 @@
 {
-	"name": "jpvalery-portfolio",
+	"name": "luminiu-ro",
 	"description": "My photography portfolio",
 	"version": "3.0.0",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/jpvalery/portfolio.git"
+		"url": "git://github.com/chinciusan/luminiu-portfolio.git"
 	},
-	"author": "Jp Valery <jp.valery@me.com>",
+	"author": "Marian Chinciusan inspired by Jp Valery <jp.valery@me.com>",
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
